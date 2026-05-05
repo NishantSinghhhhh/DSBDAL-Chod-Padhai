@@ -1,0 +1,101 @@
+Manufacturer,Category,Screen_Size_cm,Screen,CPU_Frequency_GHz,RAM_GB,Storage_GB,Weight_kg,Price
+Acer,Ultrabook,38.1,IPS Panel,2.8,8,1024,1.83,1722.22
+Asus,Notebook,43.94,Full HD,3.02,4,512,2.18,1752.16
+Apple,Gaming,43.94,Touchscreen,2.23,32,512,1.07,2407.94
+HP,Workstation,33.78,Touchscreen,2.68,8,256,,1149.66
+HP,Ultrabook,38.1,4K,2.98,16,128,2.71,1601.15
+Lenovo,Ultrabook,39.62,Full HD,2.44,4,256,2.07,2915.39
+Apple,Workstation,35.56,Touchscreen,3.31,4,128,3.16,2114.8
+Acer,Notebook,35.56,Touchscreen,3.14,16,1024,2.74,715.11
+HP,Gaming,33.78,4K,1.73,8,256,1.02,659.71
+Lenovo,Workstation,33.78,IPS Panel,2.84,8,256,2.54,851.51
+Apple,Gaming,,Touchscreen,2.07,4,512,1.23,2370.12
+Lenovo,Notebook,39.62,IPS Panel,2.72,16,256,2.95,1097.52
+Acer,Notebook,39.62,4K,3.51,4,128,3.48,357.75
+HP,Workstation,43.94,Touchscreen,3.36,4,256,2.33,2849.27
+HP,Ultrabook,33.78,IPS Panel,2.41,32,256,2.71,758.23
+HP,Notebook,35.56,Full HD,2.18,8,1024,1.59,325.81
+Dell,Notebook,35.56,IPS Panel,2.07,8,128,2.09,940.26
+HP,Workstation,38.1,IPS Panel,2.67,32,512,3.14,934.58
+Asus,Workstation,35.56,IPS Panel,1.83,8,128,1.42,
+Dell,Workstation,39.62,IPS Panel,2.7,8,1024,1.66,2785.05
+Apple,Notebook,39.62,Full HD,1.6,8,128,2.11,2673.8
+Dell,Gaming,33.78,4K,2.25,16,128,2.78,1533.62
+Dell,Notebook,38.1,IPS Panel,2.04,32,256,1.94,1409.43
+Dell,Workstation,35.56,IPS Panel,3.54,4,256,3.32,1798.52
+Lenovo,Ultrabook,33.78,Touchscreen,3.05,16,128,1.24,957.33
+Asus,Ultrabook,43.94,Touchscreen,2.3,4,128,1.93,440.9
+Acer,Workstation,43.94,Full HD,1.79,32,512,2.77,2835.91
+HP,Ultrabook,35.56,Full HD,2.63,32,1024,1.56,804.09
+Dell,Notebook,35.56,Full HD,2.03,32,256,2.64,835.68
+Acer,Gaming,35.56,Touchscreen,2.67,8,256,1.41,1575.64
+Lenovo,Notebook,39.62,IPS Panel,3.27,16,256,1.14,1627.36
+Acer,Workstation,35.56,Touchscreen,2.83,32,256,1.3,349.77
+Dell,Notebook,43.94,4K,2.87,4,128,3.32,699.48
+Apple,Ultrabook,35.56,Full HD,2.68,8,128,2.38,1321.02
+Asus,Notebook,38.1,Full HD,3.45,8,512,2.99,2146.07
+Acer,Gaming,43.94,Full HD,3.46,16,256,1.83,916.73
+Dell,Ultrabook,38.1,4K,2.63,16,256,2.48,1442.14
+Dell,Gaming,43.94,IPS Panel,2.21,16,128,2.24,1804.83
+HP,Gaming,33.78,IPS Panel,2.52,8,512,3.36,2699.2
+Apple,Gaming,43.94,IPS Panel,1.97,32,128,2.87,1180.39
+HP,Notebook,43.94,Full HD,2.87,4,256,2.83,660.61
+Apple,Notebook,38.1,IPS Panel,2.6,32,256,1.12,1621.04
+Asus,Notebook,38.1,Touchscreen,1.81,4,1024,2.37,2316.15
+HP,Notebook,43.94,Full HD,2.0,32,1024,2.17,596.62
+Asus,Ultrabook,43.94,4K,2.56,16,1024,3.32,1446.65
+Lenovo,Notebook,39.62,4K,3.38,4,512,1.64,348.02
+Lenovo,Ultrabook,33.78,IPS Panel,2.73,8,128,1.67,390.61
+Apple,Gaming,33.78,Full HD,2.96,4,256,2.03,1603.97
+Apple,Ultrabook,35.56,Touchscreen,2.28,8,256,1.61,1105.13
+HP,Workstation,43.94,Touchscreen,2.74,32,512,1.32,2581.79
+Lenovo,Notebook,43.94,Full HD,2.49,16,256,3.14,1925.82
+Acer,Workstation,43.94,IPS Panel,2.92,4,256,2.4,1525.62
+Acer,Ultrabook,43.94,4K,1.7,8,128,3.15,1401.43
+Acer,Notebook,33.78,4K,2.59,32,1024,3.08,1642.56
+Lenovo,Workstation,38.1,Touchscreen,2.19,16,1024,1.71,409.18
+Acer,Notebook,39.62,Touchscreen,2.25,16,512,2.37,2710.54
+Asus,Ultrabook,38.1,Touchscreen,3.52,16,1024,1.21,2995.42
+Dell,Workstation,38.1,4K,1.97,32,1024,3.29,790.02
+Apple,Ultrabook,33.78,Touchscreen,2.22,32,512,2.01,625.03
+HP,Workstation,39.62,4K,2.62,32,512,1.98,687.66
+Asus,Gaming,43.94,4K,3.33,16,1024,1.76,2084.77
+Acer,Gaming,33.78,IPS Panel,2.43,4,128,2.15,2085.89
+Dell,Gaming,33.78,IPS Panel,3.09,8,512,1.63,2589.4
+HP,Gaming,39.62,IPS Panel,3.31,32,256,1.94,2329.93
+Asus,Gaming,35.56,Touchscreen,2.22,4,512,3.0,1514.16
+HP,Ultrabook,33.78,4K,2.39,8,256,3.09,1954.71
+Apple,Gaming,38.1,Touchscreen,2.31,16,512,1.76,2158.37
+Lenovo,Ultrabook,38.1,4K,3.27,4,512,2.17,1684.39
+Acer,Gaming,43.94,IPS Panel,1.69,16,1024,3.18,1584.26
+Asus,Notebook,33.78,IPS Panel,2.22,8,1024,1.13,2041.76
+Asus,Gaming,43.94,Touchscreen,2.96,32,1024,3.22,1805.18
+Dell,Notebook,33.78,4K,2.73,16,128,1.55,2038.64
+Dell,Ultrabook,39.62,Touchscreen,2.47,4,1024,2.7,1954.71
+Dell,Gaming,33.78,Full HD,2.68,32,1024,2.46,2241.83
+HP,Workstation,35.56,Touchscreen,2.0,4,512,2.38,2035.57
+Acer,Ultrabook,38.1,IPS Panel,2.46,8,512,3.15,1703.3
+HP,Gaming,39.62,4K,2.6,8,128,1.25,2140.85
+Acer,Ultrabook,38.1,4K,3.4,32,256,1.87,1513.6
+Asus,Workstation,43.94,Touchscreen,2.12,4,512,2.35,952.51
+HP,Gaming,39.62,IPS Panel,3.34,4,512,3.03,303.83
+HP,Workstation,35.56,Full HD,2.89,4,256,1.54,1811.9
+HP,Gaming,38.1,Touchscreen,1.64,4,128,3.01,1894.77
+Lenovo,Notebook,33.78,4K,3.05,8,512,2.0,2924.53
+Apple,Ultrabook,33.78,IPS Panel,1.67,4,1024,1.47,1275.99
+Acer,Workstation,33.78,4K,3.59,8,128,2.9,1364.16
+Acer,Ultrabook,39.62,4K,3.35,4,256,1.23,844.86
+HP,Workstation,35.56,4K,2.19,4,256,2.29,490.44
+Lenovo,Ultrabook,35.56,4K,2.11,16,1024,1.16,2386.57
+HP,Ultrabook,35.56,Full HD,2.36,16,1024,1.89,974.14
+Acer,Ultrabook,38.1,IPS Panel,2.31,4,1024,2.5,1944.04
+Apple,Notebook,39.62,Touchscreen,2.34,8,128,2.39,2156.99
+Apple,Gaming,33.78,IPS Panel,2.24,4,256,2.01,1572.34
+Asus,Notebook,38.1,IPS Panel,2.84,16,1024,2.07,2666.15
+Lenovo,Ultrabook,35.56,IPS Panel,1.93,4,1024,1.57,1498.25
+Apple,Workstation,33.78,Touchscreen,3.29,16,256,2.14,1069.25
+Lenovo,Ultrabook,39.62,IPS Panel,3.22,4,512,3.38,2719.24
+HP,Gaming,43.94,Touchscreen,2.55,32,128,3.13,2626.22
+Asus,Notebook,35.56,Touchscreen,3.31,4,512,1.36,742.91
+Acer,Gaming,35.56,Full HD,2.09,8,1024,1.07,370.09
+Apple,Workstation,35.56,4K,1.64,16,128,3.33,542.96

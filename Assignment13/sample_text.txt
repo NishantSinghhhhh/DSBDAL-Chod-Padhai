@@ -1,0 +1,7 @@
+Hadoop is the Elephant King!
+A yellow and elegant thing.
+He never forgets to mind the rules.
+Hadoop loves data and his MapReduce tools.
+The framework processes big data efficiently.
+MapReduce splits work into map and reduce tasks.
+Hadoop and MapReduce work together perfectly.
